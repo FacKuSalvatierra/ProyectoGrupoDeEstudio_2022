@@ -12,3 +12,6 @@ Las "ceremonias" son eventos especiales de la metodología Scrum, que básicamen
 ● Sprint Review Meeting (Revisión) 
 ● Sprint Retrospective Meeting (Retrospectiva).
 
+●Product Owner: Trabaja con las partes interesadas. los usuarios finales y el equipo de Scrum para asegurarse que el producto final cumpla con los requisitos del usuario y se alinee con los objetivos comerciales.
+●Scrum Master: Lidera el equipo de desarrollo para ayudarlos a prepararse y ejecutar con éxito los sprints y, además, se centra en la mejora continua de los procesos internos.
+●Development Team: Trabaja en los entregables que deben realizarse para cada sprint. Los desarrolladores son el centro del equipo de Scrum, ya que son responsables las tareas del backlog del producto, lo que se traduce en nuevas caracerísticas del producto.
