@@ -16,9 +16,11 @@ Concepto de Scrum:
 Las "ceremonias" son eventos especiales de la metodología Scrum, que básicamente consisten en reuniones en las que el equipo determinará los próximos pasos a seguir. Estas ceremonias son: 
 ● Sprint Planning Meeting (Planificación): Se produce al iniciar cada
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+
 ● Daily Scrum Meeting (Actualización diaria): Se realiza diariamente, y tiene un máximo de
 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y
 qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+
 ● Sprint Review Meeting (Revisión): . Se produce al finalizar el Sprint y
 tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el
 Product Owner.
