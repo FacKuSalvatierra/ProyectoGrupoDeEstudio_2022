@@ -13,7 +13,8 @@ Concepto de Scrum:
 
 
 
-Las "ceremonias" son eventos especiales de la metodología Scrum, que básicamente consisten en reuniones en las que el equipo determinará los próximos pasos a seguir. Estas ceremonias son: 
+Las "ceremonias" son eventos especiales de la metodología Scrum, que básicamente consisten en reuniones en las que el equipo determinará los próximos pasos a seguir. Estas ceremonias son:
+
 ● Sprint Planning Meeting (Planificación): Se produce al iniciar cada
 Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 
