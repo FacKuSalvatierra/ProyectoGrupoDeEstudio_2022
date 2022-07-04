@@ -14,7 +14,7 @@ Scrum Artifacts (Artefactos):
 
 Product Backlog:
 
-El Product Backlog es un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto: requerimientos, casos de uso, tareas y dependencias. Es la principal fuente de información sobre el producto en Scrum,El Product Backlog debe ser gestionado en exclusiva por el Product Owner.
+El Product Backlog es un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto: requerimientos, casos de uso, tareas y dependencias. Es la principal fuente de información sobre el producto en Scrum. El Product Backlog debe ser gestionado en exclusiva por el Product Owner.
 
 Un Product Backlog contiene distintos elementos:
 
@@ -34,14 +34,14 @@ Incremento:
 
 Si Scrum tuviera que ser reducido a una sola cosa, sería a entregar una pieza de software terminado en cada Sprint. Un Incremento es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
 
-Construir software de manera ágil se basa en hacerlo de manera iterativa e incremental. Mediante las iteraciones, nos aseguramos que todo el ciclo de vida del software (planificación, diseño, desarrollo, testeo y entrega) ocurre en 4 semanas o menos. Por supuesto, no podemos construir toda la funcionalidad que queremos en solo cuatro semanas y tenemos que buscar la manera de ir entregando los componentes necesarios justo a tiempo.
+Construir software de manera ágil se basa en hacerlo de manera iterativa e incremental. Mediante las iteraciones, nos aseguramos que todo el ciclo de vida del software (planificación, diseño, desarrollo, testeo y entrega) ocurra en 4 semanas o menos. Por supuesto, no podemos construir toda la funcionalidad que queremos en solo cuatro semanas y tenemos que buscar la manera de ir entregando los componentes necesarios justo a tiempo.
 
 
 
 
 
 
-Scrum: Rolees
+Scrum: Roles
 Un equipo Scrum suele estar compuesto por grupos de trabajo de entre 3 a 9 miembros del equipo de desarrollo, más el Scrum Master y el Product Owner. Cada uno de estos roles tiene diferentes responsabilidades y debe de rendir cuentas de distinta manera, tanto entre ellos como para el resto de la organización. La suma de todos los roles es lo que llamamos Equipo Scrum.
 
 ●Product Owner: Trabaja con las partes interesadas. los usuarios finales y el equipo de Scrum para asegurarse que el producto final cumpla con los requisitos del usuario y se alinee con los objetivos comerciales.
@@ -55,18 +55,10 @@ Un equipo Scrum suele estar compuesto por grupos de trabajo de entre 3 a 9 miemb
 
 Las "ceremonias" son eventos especiales de la metodología Scrum, que básicamente consisten en reuniones en las que el equipo determinará los próximos pasos a seguir. Estas ceremonias son:
 
-● Sprint Planning Meeting (Planificación): Se produce al iniciar cada
-Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+● Sprint Planning Meeting (Planificación): Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 
-● Daily Scrum Meeting (Actualización diaria): Se realiza diariamente, y tiene un máximo de
-20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y
-qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+● Daily Scrum Meeting (Actualización diaria): Se realiza diariamente, y tiene un máximo de 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
 
-● Sprint Review Meeting (Revisión): . Se produce al finalizar el Sprint y
-tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el
-Product Owner.
+● Sprint Review Meeting (Revisión): Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner.
 
-● Sprint Retrospective Meeting (Retrospectiva): Se produce también al
-finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado
-en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que
-debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+● Sprint Retrospective Meeting (Retrospectiva): Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
