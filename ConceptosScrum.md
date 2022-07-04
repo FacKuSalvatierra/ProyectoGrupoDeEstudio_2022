@@ -1,6 +1,8 @@
-![Isologotipo_ISPC_blanco-transparente-300x200](https://user-images.githubusercontent.com/105983635/177212203-25d08b57-23a5-486d-99e3-911ccd489f75.png)
-___
+
 # Proyecto Grupo de estudio 2022  
+
+
+
 ## Trabajo practico 01 de ISPC  
 
 
