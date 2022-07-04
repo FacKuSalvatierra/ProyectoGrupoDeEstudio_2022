@@ -1,2 +1,2 @@
 # ProyectoGrupoDeEstudio_2022
-Trabajo practico 01 de ISPC
+Trabajo practico 02 de ISPC
