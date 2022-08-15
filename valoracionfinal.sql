@@ -2,7 +2,7 @@ create database valoracionfinal;
 
 use valoracionfinal;
 
-create table dueno (dni INT not null auto_increment,
+create table dueno (dni INT not null ,
 nombre varchar(50), apellido varchar(50), telefono varchar(50), direccion varchar(50), primary key(dni));
 
 create table perro (id_perro int not null auto_increment,
